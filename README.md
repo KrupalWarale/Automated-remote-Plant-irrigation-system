@@ -2,9 +2,13 @@
 
 This project implements a smart plant monitoring system using an ESP8266 microcontroller, various sensors, and integration with the Blynk platform for remote monitoring and control.
 
-## Project Demonstration
+# Project Demonstration
 
 Watch a video demonstration of the project here: [IOT_course_project.mp4](IOT_course_project.mp4) 
+
+
+https://github.com/user-attachments/assets/ae654b5d-83c6-42ca-95ff-d33a333d3561
+
 
 ## Features
 
