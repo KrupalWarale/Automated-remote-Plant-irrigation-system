@@ -2,6 +2,10 @@
 
 This project implements a smart plant monitoring system using an ESP8266 microcontroller, various sensors, and integration with the Blynk platform for remote monitoring and control.
 
+## Project Demonstration
+
+Watch a video demonstration of the project here: [IOT_course_project.mp4](IOT_course_project.mp4) 
+
 ## Features
 
 *   **Temperature & Humidity Monitoring:** Reads ambient temperature and humidity using a DHT11 sensor.
