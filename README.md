@@ -4,8 +4,7 @@ This project implements a smart plant monitoring system using an ESP8266 microco
 
 # Project Demonstration
 
-Watch a video demonstration of the project here: [IOT_course_project.mp4](IOT_course_project.mp4) 
-
+Watch a video demonstration of the project here:
 
 https://github.com/user-attachments/assets/ae654b5d-83c6-42ca-95ff-d33a333d3561
 
